@@ -273,4 +273,8 @@ Ce projet combine :
 - raisonnement hybride
 - aide à la décision orientée utilisateur
 
-Cette combinaison correspond aux programmes de master intéressés par l'IA explicable, l'IA centrée sur l'humain, les systèmes cognitifs et l'apprentissage automatique appliqué.
+## Auteur
+
+**LIU Qiange**
+
+
